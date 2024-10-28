@@ -14,7 +14,7 @@
 - buy exam vouchers from store.comptia.org or diontraining.com/vouchers for a 10% discount
 - videos -> 4 tips -> 1. turn on close captions on the videos, 2. control the speed of the video, 3. download and print the study guide, 4. join the fb group and discord support group (diontraining.com/discord)
 - exam tips -> 1. there will be no trick q's, 2. pay close attn to word in bold, italics, or all uppercase, 3. answer questions based on comptia sec+ knowledge, 4. understand the key concepts of the test questions, 5. do not memorize the terms word for word, try to understand them instead
-- pick targret date to certify -> mid july(?) 2024
+- pick target date to certify -> mid july(?) 2024
 
 ## Session 2: Fundamentals of Security
 
@@ -32,7 +32,7 @@
 - authentication -> verify identify
 - authorization -> defines actions a user can access
 - accounting -> tracking user activities
-- securtiy controls -> mitigate risk and protect cia of info systems
+- security controls -> mitigate risk and protect cia of info systems
 - 6 types of controls
 - zero trust -> sec model that noone should be trusted by default
 - control plane -> adaptive identity
@@ -73,14 +73,14 @@
 - business gap analysis evaluates the orgs business processes
 - plan of action and milestones (POA&M) outlines measures to address vulns, includes resource allocation
 - zero trust is a best practice that demands verification for everything regardless of origin
-- control plane is component responbile to manage access within the org
+- control plane is component responsible to manage access within the org
 - key elements 1 adaptive identity, 2 threat scope reduction, 3 policy-driven access control, 4 secured zones
 - data plane ensures the policies and procedures are executed
 - 4 components 1 subject system, 2 policy engine, 3 policy administrator, 4 policy enforcement point
 
 ## Session 3: Threat Actors (TA)
 
-- threat actor (ta) is a an entity responsible for incidents that imapct security and data protection
+- threat actor (ta) is a an entity responsible for incidents that impact security and data protection
 - ta attributes are characteristics or properties that define ta's from one another
 - 5 ta types 1 unskilled attackers 2 hacktivists 3 organized crime 4 nation-state actors 5 insider threats
 - shadow IT is managed and utilized w/o org approval
@@ -100,7 +100,7 @@
 - nation-state actors groups sponsored by a government to conduct cyber ops
   - conduct false flag attacks are orchestrated with the intent to mislead investigators
   - create custom malware, use zero day
-  - advaced persistent threats (apt) #long-term persistence#
+  - advanced persistent threats (apt) #long-term persistence#
   - motivated to achieve long term strategic goals
 - insider threats are those which originate within the org
   - motivations 1 financial gain 2 revenge 3 unintentional
@@ -123,7 +123,7 @@
 - protective measures fencing and bollards, fences
 - brute force attacks
 - surveillance systems
-- bypassing surveylance systems
+- bypassing surveillance systems
 - access controls vestibules double doored system
 - piggybacking
 - tailgating unauth person follows closely behind
@@ -135,7 +135,7 @@
 - purposes 1 visual deterrent 2 establish a physical barrier 3 delay intruders
 - bollard short vertical posts made out of steel or concrete to manage or redirect vehicular traffic
 - purpose 1 create physical barrier 2 visual reminder of where vehicles are not permitted to enter
-- fencing is adaptable and for large perimiters
+- fencing is adaptable and for large perimeters
 - bollards are for a specific area
 - fences #prevents people#
 - bollards #prevents vehicles#
@@ -189,7 +189,7 @@
 - threat vector method to attack (unpatched software, installing code, phishing) (how)
 - attack vector means by which the attacker will gain access () (way and the how they are going to infect a system - think of a sequence of actions)
 - a virus is malicious code that runs in a machine w/o a user's knowledge. #requires a user's interaction#.
-- 10 types of viruses 1 boot sector (installed on the first sector of a hard drive) 2 macro virus (embedded inside another document) 3 program virus (find executables or app files to infect w/ malicious code) 4 multipartite virus (boot sector virus + program virus) 5 encrypted virus (hides itself from being detected by encrypting its malicious code or payloads) 6 polymorphic virus (advanced version of an encrypted virus. it changes the code each time it is executed) 7 metamorphic viruses (rewrites itself) 8 steal viruses (techique used to evade detection) 9 armored virus (layer of protection to confuse a person trying to analyze it) 10 hoax (attempts to scare end users into taking an action on their system. this is not really a virus)
+- 10 types of viruses 1 boot sector (installed on the first sector of a hard drive) 2 macro virus (embedded inside another document) 3 program virus (find executables or app files to infect w/ malicious code) 4 multipartite virus (boot sector virus + program virus) 5 encrypted virus (hides itself from being detected by encrypting its malicious code or payloads) 6 polymorphic virus (advanced version of an encrypted virus. it changes the code each time it is executed) 7 metamorphic viruses (rewrites itself) 8 steal viruses (technique used to evade detection) 9 armored virus (layer of protection to confuse a person trying to analyze it) 10 hoax (attempts to scare end users into taking an action on their system. this is not really a virus)
 - a worm is malicious software that can #replicate itself w/o user intervention#.
 - dangers of worms 1 infect workstation and other assets 2 cause disruption to network traffic
 - a trojan is malicious software disguised as a piece of desirable software
@@ -209,8 +209,8 @@
 - shim is a piece of code that is placed between two components to redirect system calls
 - backdoors are used to bypass normal security and authentication functions
 - remote access trojans act like backdoors
-- easter egg is an insecure coding practice that was used by programers to provide a joke to users
-- logic bomb is a malicious code inserted to a progam that will execute when certain conditions are met
+- easter egg is an insecure coding practice that was used by programmers to provide a joke to users
+- logic bomb is a malicious code inserted to a program that will execute when certain conditions are met
 - keylogger is a piece of software that records keystrokes that are made on a device
 - they can be software-based or hardware-based
 - how to protect against keyloggers 1 update and patch systems 2 invest in av or antimalware solutions 3 conduct phishing awareness training 4 implement mfa 5 encrypt keystrokes 6 conduct physical checks
@@ -227,19 +227,19 @@
 - malware deployment methods
 - living off the land (LOL) use standard system tools
 - indicators of malware attacks
-- 9 indicators 1 account lockouts 2 concurrent session utilization 3 blocked content 4 impossible travel 5 resource consumption 6 resource inaccesibility 7 out of cycle logging 8 missing logs 9 published and documented attacks
+- 9 indicators 1 account lockouts 2 concurrent session utilization 3 blocked content 4 impossible travel 5 resource consumption 6 resource inaccessibility 7 out of cycle logging 8 missing logs 9 published and documented attacks
 
 ## Session 7: Data Protection
 
 - safeguard important information
-- data sovereignity data stored in a country has to follow the law of the country where it is housed
+- data sovereignty data stored in a country has to follow the law of the country where it is housed
 - data loss prevention (dlp) sensitive info doesn't leave the company
-- data classifications based on the value to the org and the sensitivity of the information (data owner desides this)
+- data classifications based on the value to the org and the sensitivity of the information (data owner decides this)
 - sensitive data information that can result in the loss of an advantage to the company
 - 2 data classification schemes 1 commercial business 2 government
 - commercial classifications 1 public 2 sensitive 3 private 4 confidential 5 critical
 - government classifications levels 1 unclassified 2 sensitive but classified 3 confidential 4 secret 5 top secret
-- policies should ddefine how data will be collected retained and disposed
+- policies should define how data will be collected retained and disposed
 - data ownership process of identifying the person for the CIA and privacy of the info assets
 - data owner senior executive role that is responsible for maintaining the CIA. this is not the person who created the file. responsible for labeling the asset and responsible for the controls to protect he info asset.
 - data controller entity that holds the responsibility for deciding the purposes and methods of storage, collection and usage
@@ -250,15 +250,15 @@
 - data owner should be from the business side (whomever is creating the data). IT people should not be data owners.
 - 3 data states 1 data at rest 2 data in transit 3 data in use
 - 6 encryption types for data at rest 1 full disk encryption (FDE) 2 partition encryption 3 file encryption 4 volume encryption 5 database encryption 6 record encryption (fields within a database record)
-- 3 encryption methods for data in transit 1 ssl and tls 2 vpn 3 ipsec (authenticate and encryt each ip packet)
+- 3 encryption methods for data in transit 1 ssl and tls 2 vpn 3 ipsec (authenticate and encrypt each ip packet)
 - 4 protection types for data in use 1 application level 2 access controls 3 secure enclaves 4 intel software guards
 - 6 data types 1 regulated data 2 trade secrets 3 intellectual property 4 legal information 5 financial information 6 human-readable data/non-human readable data
-- data sovereignity digital info is subject to the laws of the country in which it is located
+- data sovereignty digital info is subject to the laws of the country in which it is located
 - general data protection regulation (GDPR)
 - securing data 1 geographic restriction (geofencing) 2 encryption 3 hashing (data is converted to a fixed-character string regardless of input) 4 masking 5 tokenization (replaces sensitive data with non-sensitive substitutes known as tokens) 6 obfuscation 7 segmentation (dividing a network into separate segments) 8 permission restrictions (who has access to what)
 - data loss prevention monitor the data of a system while in use, transit or rest
 - endpoint dlp software installed on a workstation
-- network dlp software/hardware placed at the perimiter of the network
+- network dlp software/hardware placed at the perimeter of the network
 - storage dlp software installed on a server in the data center
 - cloud-based dlp system usually SaaS and it's part of a cloud service
 
@@ -273,8 +273,8 @@
 - use larger keys and rotate frequently
 - limit key access to regular audits and monitoring
 - symmetric algorithms single key (shared key). does not provide for non repudiation. 
-- asymmetric algorithms two differnt keys (public key cryptography) one key is used to encrypt the data the other key is used to decrypt the data.
-- hybrid implementation use asym encryption to securely tranasfer a private key that can be used w/ sym encryption
+- asymmetric algorithms two different keys (public key cryptography) one key is used to encrypt the data the other key is used to decrypt the data.
+- hybrid implementation use asym encryption to securely transfer a private key that can be used w/ sym encryption
 - stream cipher encrypts data single bit at a time (bit by bit encryption). uses sym algos.
 - block cipher breaks input into fixed-size blocks of data and performs the encryption on each block
 - symmetric algos 1 data encryption standard (DES) key length 56-bits 2 triple des (3DES) uses 3 different 56-bit keys 3 international data encryption algorithm (IDEA) 128 bit key length 4 advanced encryption standard (AES) replaced DES and 3DES 5 blowfish 32-448 key size 6 twofish variant of blowfish 7 rc cipher suite (rc4, rc5 and rc6 are used)
@@ -294,7 +294,7 @@
 - brute-force attacks try all password combinations available
 - rainbow tables
 - nonce unique number added to password-based authentication process
-- limit the number of loging attempts to prevent attacks on hashes
+- limit the number of login attempts to prevent attacks on hashes
 - public key infrastructure (PKI) system (hardware, software, policies) based on asymmetric encryption
 - PKI system that creates asym key pairs
 - certificate authority issues digital certs
@@ -334,7 +334,7 @@
   
 ## Session 9: Risk Management
 
-- process to identify analize treat, monitor and report risk
+- process to identify analyze treat, monitor and report risk
 - risk assessment freq how often does a risk assessment occur
 - 4 types 1 ad-hoc (as needed) 2 recurring (on a regular interval) 3 one-time (not repeated) 4 continuous (on-going)
 - risk identification recognizing a potential risk
@@ -348,12 +348,12 @@
 - risk register fields 1 description 2 impact 3 likelihood/probability 4 outcome 5 level/threshold 6 cost
 - risk description identify and detailed description of the risk
 - risk impact potential consequences of the risk materializing
-- risk likelhood/probability chance of a risk occuring 
+- risk likelihood/probability chance of a risk occurring 
 - risk outcome
-- risk level/threshold comines the impact and likelihood
+- risk level/threshold combines the impact and likelihood
 - cost financial impact on the project (risk occurs or mitigating the risk)
 - risk tolerance/risk acceptance willingness to deal w/ uncertainty
-- risk appetite willingess to embrace or retain a specific types pf risk
+- risk appetite willingness to embrace or retain a specific types pf risk
 - 3 types of appetite 1 expansionary 2 conservative 3 neutral
 - key risk indicators (KRI) early signal of risk exposure
 - risk owner person or group responsible for managing the risk
@@ -361,10 +361,10 @@
 - quantitative risk analysis objective and numerical evaluation of risks.
 - exposure factor (EF) proportion of an asset that is lost in an event
 - single loss expectancy (SLE) monetary value expected to be lost in an event (Asset($) x EF)
-- annualized rate of occurence (ARO) freq with which a threat is expected to happen within a year
+- annualized rate of occurrence (ARO) freq with which a threat is expected to happen within a year
 - annualized loss expectancy (ALE) SLE x ARO
 - 4 risk management strategies 1 transfer (risk sharing. insurance.) 2 accept (not mitigating risks. exemption. exception.) 3 avoidance (altering plans) 4 mitigation
-- risk monitoring tracking and identifing risk
+- risk monitoring tracking and identifying risk
 - risk reporting communicating info about risk
 - important 1 decision making 2 risk mitigation 3 stakeholder communication 4 regulatory compliance
 
@@ -384,7 +384,7 @@ ALE = Asset x EF x ARO
 
 ### Third-party Vendor Risks
 
-- security and operational challenges introduced by external entitites
+- security and operational challenges introduced by external entities
  
 ### Supply Chain Risks
 
@@ -399,7 +399,7 @@ ALE = Asset x EF x ARO
 - chip washing
 - rootkits
 - semiconductors
-- 4 ways to mitigate the risks of attacks 1 vendor due dilligence 2 regular monitoring and audits 3 education and collaboration 4 incorporating contractual safeguards
+- 4 ways to mitigate the risks of attacks 1 vendor due diligence 2 regular monitoring and audits 3 education and collaboration 4 incorporating contractual safeguards
 
 ### Vendor Assessment
 
@@ -409,8 +409,8 @@ ALE = Asset x EF x ARO
 - managed service providers manage IT services on behalf of your org
 - penetration testing simulated cyber attack against supplier system
 - contracts should have a right to audit clause
-- evidence of itnernal audits (vendor self assessment)
-- independent assesment are evaluations conducted by third-party entities
+- evidence of internal audits (vendor self assessment)
+- independent assessment are evaluations conducted by third-party entities
 - supply chain analysis deep dive into a vendor's supply chain and assess the security and reliability of each link
 
 ### Vendor Selection and Monitoring
@@ -424,7 +424,7 @@ ALE = Asset x EF x ARO
 
 ### Contracts and Agreements
 
-- basic contract establishes relationshio between two parties
+- basic contract establishes relationship between two parties
 - service-level agreement (SLA)
 - Memorandum of Agreement (MOA) formal and outline responsibilities
 - memorandum of understanding is a declaration of intent
@@ -436,23 +436,23 @@ ALE = Asset x EF x ARO
 ## Session 11: Governance and Compliance
 
 - governance is management of IT infra, policies, procedures and operations
-- compliance is adhecerence to laws, regulations, standards and policies
+- compliance is adherence to laws, regulations, standards and policies
 - governance ensure orgs IT infra aligns w/ business objectives
 - monitoring review and assess effectiveness
 - revision is to update governance framework
 - governance structures 1 boards 2 committees 3 government entities 4 centralized/decentralized structures
 - policies 1 acceptable use policy (AUP - do's and dont's sets boundaries for appropriate use) 2 information security policies (how org protects its info assets from threats) 3 business continuity (continue critical ops during and after a disruption) 4 disaster recovery 5 incident response (plan for handling security incidents) 6 software development lifecycle (SDLC) 7 change management (implement changes in a controlled manner)
-- standards provide framework for implement securtity measures
+- standards provide framework for implement security measures
 - standard examples 1 password standards 2 access control standards 3 physical security standards 4 encryption standards
-- procedures (sequences of actions) 1 change management 2 onboard/offboarding 3 playbooks (checklist of items to perform)
+- procedures (sequences of actions) 1 change management 2 onboard/off-boarding 3 playbooks (checklist of items to perform)
 - governance considerations 1 regulatory 2 legal (contract law, intellectual property, etc) 3 industry 4 geographical
 - compliance reporting is to collect and present data to demonstrate adherence to compliance requirements. can be internal or external
 - compliance monitoring is the process of reviewing the orgs ops to ensure compliance. can be internal or external.
-- due dilligence review of orgs ops to identify potential compliance risks
+- due diligence review of orgs ops to identify potential compliance risks
 - due care steps taken to mitigate risks
-- attestation formal declaration that the org's processes and ontrols are compliant
-- acknowledgement is a recognition and acceptance of compliance
-- automation in compliance streamline data collection, improve accurace and provide real-time compliance monitoring
+- attestation formal declaration that the org's processes and controls are compliant
+- acknowledgment is a recognition and acceptance of compliance
+- automation in compliance streamline data collection, improve accuracy and provide real-time compliance monitoring
 - non-compliance consequences 1 fines 2 sanctions 3 reputational damage 4 loss of license 5 contractual impacts
 
 ## Session 12: Asset and Change Management
@@ -514,7 +514,7 @@ ALE = Asset x EF x ARO
 
 ## Session 14: Cyber Resilience and Redundancy
 
-- high availability ability of a service to be continously available by minimizing downtime
+- high availability ability of a service to be continuously available by minimizing downtime
 - uptime is a number of minutes of hours that a system remains online over a given period
 - load balancing is distribute network across multiple computing resources
 - clustering multiple computers that work as a single system (keeping app available even in a hw failure)
@@ -552,7 +552,7 @@ ALE = Asset x EF x ARO
 - drp handles a disaster
 - redundant site is an alternative site for backup
 - hot site is a fully equipped backup facility. very expensive.
-- warm site is a partially equippted backup site that can become operational within days of a primary site disruption
+- warm site is a partially equipped backup site that can become operational within days of a primary site disruption
 - cold site is a site with no immediate equipment or infrastructure. 
 - mobile site uses independent and portable units like trailers or tents to deliver recovery capabilities
 - virtual site uses cloud based environments
@@ -577,7 +577,7 @@ ALE = Asset x EF x ARO
 - third-party vendors provide specialized services
 - hybrid solutions combine on prem and cloud services
 - on prem solutions computing infra physically located on site at a business
-- things to consider when deciding on cloud services 1 availability 2 resilience 3 cost 4 responsiveness 5 scalability (system's ability to meet growing demand) 6 ease of deployment 7 risk transference 8 ease of recovery 9 patch availability 10 inability to patch 11 poower 12 compute (amount of computational resources that a customer can use)
+- things to consider when deciding on cloud services 1 availability 2 resilience 3 cost 4 responsiveness 5 scalability (system's ability to meet growing demand) 6 ease of deployment 7 risk transference 8 ease of recovery 9 patch availability 10 inability to patch 11 power 12 compute (amount of computational resources that a customer can use)
 
 ### Cloud Security (Risks?)
   
@@ -594,7 +594,7 @@ ALE = Asset x EF x ARO
 
 - virtualization allows emulation of servers
 - containerization light weight alternative to virtualization
-- hypervisor manages distribution of server's reources
+- hypervisor manages distribution of server's resources
 - types of hypervisor type 1 bare metal or native type 2 operates within a standard OS
 - type 1 is faster and more efficient than type 2
 - containers are separated from each other but shares the host machine's kernel
@@ -657,14 +657,14 @@ ALE = Asset x EF x ARO
 - PLC
 - SCADA type of ICS used to monitor and control geographically dispersed industrial processes
 - risks 1 unauthorized access 2 malware attacks 3 lack of updates 4 physical threats
-- how to secure 1 strong access control 2 update and patch 3 firewall and IDS 4 reguar security audits 5 employee training
+- how to secure 1 strong access control 2 update and patch 3 firewall and IDS 4 regular security audits 5 employee training
 
 ### Embedded Systems
 
 - specialized computing component
 - real time operating system (RTOS) ensures data processing in real time
 - vulns 1 hw failure 2 software bugs 3 security vulns 4 outdated systems
-- how to secure 1 network segmentation 2 wrappers (show only the entry and exit points of the data when travelling between networks) 3 firmware code control (secure coding practices, code reviews, and automated testing) 4 inability to patch 
+- how to secure 1 network segmentation 2 wrappers (show only the entry and exit points of the data when traveling between networks) 3 firmware code control (secure coding practices, code reviews, and automated testing) 4 inability to patch 
 
 ## Session 16: Security Infrastructure
 
@@ -751,12 +751,12 @@ ALE = Asset x EF x ARO
 
 - network switch feature to restrict which devices can connect to a specific port based on the network interface mac address
 - content addressable memory (CAM) table used to store info about mac addresses
-- persistent (sticky) mac learing switch automatically learns and associates mac addresses
+- persistent (sticky) mac learning switch automatically learns and associates mac addresses
 - 802.1x framework used for port-based auth for both wired and wireless networks
 - 3 roles 1 supplicant (device/user requesting access) 2 authenticator 3 authentication server (centralized device. radius or tacacs+ server)
 - radius is cross platform and tacacs+ is a cisco platform
 - extensible authentication protocol (EAP) -> framework for authentication
-- variants of EAP 1 EAP-MD5 2 EAP-TLS 3 EAP-TTLS 4 EAP-FAST 5 PEAP (protected EAP) 6 LEAP (variant of EAP that only works on cisco-based devices)
+- variants of EAP 1 EAP-MD5 2 EAP-TLS 3 EAP-TLS 4 EAP-FAST 5 PEAP (protected EAP) 6 LEAP (variant of EAP that only works on cisco-based devices)
 
 ### Securing Network Communications
 
@@ -766,7 +766,7 @@ ALE = Asset x EF x ARO
 - full tunnel vpn maximizes security by encrypting all traffic
 - divides traffic and network requests and then routes them to the appropriate network
 - split tunnels are less secure but offers better performance
-- clientless vpn securenaccess through browse-based vpn tunnels. does not need hardware or software.
+- clientless vpn secure access through browse-based vpn tunnels. does not need hardware or software.
 - transport layer security (tls) is an example of a clientless vpn
 - transmission control protocol (tcp)
 - datagram transport layer security (DTLS) udp version of TLS
@@ -972,7 +972,7 @@ ALE = Asset x EF x ARO
 
 - the outcome depends on the timing of events not matching the events developer's intended order
 - multiple threads write to the same variable at the same location
-- dereferencing code attempts to remove the relationshio between a pointer and the thing that pointer was pointing to
+- dereferencing code attempts to remove the relationship between a pointer and the thing that pointer was pointing to
 - example -> dirty COW
 - time of check (TOC) attacker can alter a system resource after an application checks its state but before the operation is performed
 - time of use (TOU) attacker can change a system between the time it is checked and the time it is used
@@ -1006,7 +1006,7 @@ ALE = Asset x EF x ARO
 - permanent denial of services exploits a vuln and flashes device firmware
 - fork bomb creates large number of processes are created. this is not a worm.
 - distributed denial of service (ddos) use hundreds of machines to attack a single server
-- dns amplification attack allows attacker to initiate dns requests from a spoof ip adress to flood a website
+- dns amplification attack allows attacker to initiate dns requests from a spoof ip address to flood a website
 - blackhole/sinkhole
 - intrusion prevention
 - elastic cloud infrastructure
@@ -1014,12 +1014,12 @@ ALE = Asset x EF x ARO
 ### Domain Name System (DNS) Attacks
 
 - dns translates domain names into ip addresses
-- dns cache poisioning (dns spoofing) corrupting the dns cache data of a dns resolver with false info
+- dns cache poisoning (dns spoofing) corrupting the dns cache data of a dns resolver with false info
 - utilize dnssec to add a digital signature to the orgs dns data
 - dns amplification attack overloads a target system w/ dns response traffic by exploiting the dns resolution process
 - limit the size of dns responses
 - dns tunneling uses dns protocol to encapsulate non dns traffic over port 53
-- domain hijacking altering domain name's registraton w/o the original registrant's consent
+- domain hijacking altering domain name's registration w/o the original registrant's consent
 - use domain registry lock
 - dns zone transfer attack mimics authorized system to request and obtain the entire dns zone data for a domain
 
@@ -1045,7 +1045,7 @@ ALE = Asset x EF x ARO
 
 ### Replay Attacks
 
-- network-based attak that involves maliciously repeating or delaying valid data
+- network-based attack that involves maliciously repeating or delaying valid data
 - session hijack
 - replay attack attacker intercepts data and retransmits later
 - session tokens and mfa to prevent replay attack
@@ -1058,20 +1058,20 @@ ALE = Asset x EF x ARO
 - session cookies are non persistent
 - persistent cookies live in the browser's cache
 - session hijacking spoofing attack where the host is disconnected and replaced by the attacker
-- session prediciton attacker attempts to predict the session token to hijack that session
-- cookie poisioning modifying the contents of a cookie to be sent to a client's browser and exploit the vuln in an application
+- session prediction attacker attempts to predict the session token to hijack that session
+- cookie poisoning modifying the contents of a cookie to be sent to a client's browser and exploit the vuln in an application
 
 ### On-Path Attacks
 
 - attack where the pen tester puts their workstation logically between two hosts during the communication
 - replay valid data is captured by the attacker and then repeated
-- relay attacker insert themself in the commmunication
+- relay attacker insert themselves in the communication
 - ssl stripping tricking the encryption application with an http connection instead of an https connection
 - downgrade attack attacker attempts to have a client or server abandon its higher security mode to a lower security mode
 
 ### Injection Attacks
 
-- ldap protocl for access and maintenance of distrivuted directory
+- ldap protocol for access and maintenance of distributed directory
 - ldap injection attack ldap statements are fabricated
 - input validation and input sanitization
 - command injection attacker is able to execute arbitrary shell commands via a vulnerable web app
@@ -1087,9 +1087,9 @@ ALE = Asset x EF x ARO
 - blocked content users try to access or download content that security measures have prevented
 - impossible travel suspicious logins occur from distant locations in an impossible timeframe
 - resource consumption unusual resource spikes can signal a compromise
-- resource inaccesibility inability to access files, databases or network services
+- resource inaccessibility inability to access files, databases or network services
 - out of cycle logging log entries that happen at unusual times
-- missing logs attackers delete logsa to cover their tracks
+- missing logs attackers delete logs to cover their tracks
 - articles or docs on security breach attackers may announce their hacks
 
 ## Session 20: Hardening
@@ -1097,7 +1097,7 @@ ALE = Asset x EF x ARO
 ### Hardening
 
 - process of enhancing the security of a system
-- 1 conf management 2 restricting apps 3 unnecesary services 4 trusted operating systems 5 updates and patches 6 patch management 7 group policies 8 SELinux (Security-Enhanced Linux) 9 data encryption levels 10 secure baselines
+- 1 conf management 2 restricting apps 3 unnecessary services 4 trusted operating systems 5 updates and patches 6 patch management 7 group policies 8 SELinux (Security-Enhanced Linux) 9 data encryption levels 10 secure baselines
 
 ### Changing Default Configurations
 
@@ -1110,7 +1110,7 @@ ALE = Asset x EF x ARO
 - least functionality configure workstation to only provide needed apps and services
 - secure baseline image standardized workstations setup
 - allowlisting permits approved applications (most secure method. more difficult to manage.)
-- blocklisting prevents listed applicatitons (less secure than allowlisting. easier to manage.) 
+- blocklisting prevents listed applications (less secure than allowlisting. easier to manage.) 
 
 ### Unnecessary Services
 
@@ -1119,15 +1119,15 @@ ALE = Asset x EF x ARO
 ### Trusted Operating Systems (TOS)
 
 - Trusted Operating Systems (TOS) provides a secure computer environment that rely on mandatory access control
-- integrity-178B posix-baed operating system
+- integrity-178B posix-based operating system
 - evaluation assurance level (EAL) 6
 - common criteria standard
 - eal 1 to eal 7
-- mandatory access control (MAC) acess permissions are determiend by a policy defined by the sys admin and enfoced by the OS
+- mandatory access control (MAC) access permissions are determined by a policy defined by the sys admin and enforced by the OS
 - SELinux set of controls installed on top another linux distro (EAL 4+)
 - Trusted Solaris uses MAC
 - enhances security using microkernels. this minimizes the attack surface.
-- winodws 7+ eal 4 and eal 4+
+- Windows 7+ eal 4 and eal 4+
 - eal 4 the OS was carefully designed, tested and reviewed offering good security assurance
 
 ### Updates and Patches
@@ -1136,7 +1136,7 @@ ALE = Asset x EF x ARO
 - hotfix patch that solves a security issue
 - update provides the system with additional functionality
 - service pack includes all hotfixes and updates since the release of the operating system
-- patch management process/program(?) 1 assign a dedicated team to track 2 establish automated system-wdide patching 3 include cloud resources 4 triage all patches 5 have a lab environment to test all urgent and important patches 6 maintain detailed logs 7 establish process for evaluating firmware updates 8 develop process for deploying approved urgent patches to prod 9 assess non-critical patches for combined rollout
+- patch management process/program(?) 1 assign a dedicated team to track 2 establish automated system-wide patching 3 include cloud resources 4 triage all patches 5 have a lab environment to test all urgent and important patches 6 maintain detailed logs 7 establish process for evaluating firmware updates 8 develop process for deploying approved urgent patches to prod 9 assess non-critical patches for combined rollout
 
 ### Patch Management
 
@@ -1154,8 +1154,8 @@ ALE = Asset x EF x ARO
 - mandatory access control (MAC)
 - context-based permissions defined by properties for a given file or process
 - SELinux and AppArmor are both context-based permissions
-- discretionary access control (DAC) each objec has a list of entities that are allowed to access it
-- SELinux does not allow DAC. it rellies on MAC.
+- discretionary access control (DAC) each object has a list of entities that are allowed to access it
+- SELinux does not allow DAC. it relies on MAC.
 - three main contexts - user role and type
 - user defines who can access
 - role what roles can access
@@ -1171,9 +1171,9 @@ ALE = Asset x EF x ARO
 
 ### Data Encryption Levels
 
-- process of converting data into a secred code to prevent unauthorized access
+- process of converting data into a secret code to prevent unauthorized access
 - full-disk encryption
-- parition encryption
+- partition encryption
 - volume encryption
 - file-level encryption -> example -> gpg (gnu privacy guard)
 - database encryption -> example -> sql server transparent data encryption (TDE)
@@ -1191,7 +1191,7 @@ ALE = Asset x EF x ARO
 ### Security Techniques
 
 - wireless infrastructure security
-- wireless securirty settings
+- wireless security settings
 - application security
 - network access control (NAC)
 - web filtering and dns filtering
@@ -1212,7 +1212,7 @@ ALE = Asset x EF x ARO
 
 ### Wireless Security Settings
 
-- wired equivalent privace (WEP). outdated security standard. fixed encryption key.
+- wired equivalent privacy (WEEP). outdated security standard. fixed encryption key.
 - 64 bits WEP key and 128 bit WEP key
 - wep is insecure because of a weak 24-bit initialization vector
 - wifi protected access (WPA)
@@ -1226,13 +1226,13 @@ ALE = Asset x EF x ARO
 - enhanced open/opportunistic wireless encryption (OWE). guards against eavesdropping.
 - uses AES GCMP (Galois Counter Mode)
 - management protection frames
-- authentication, authorizzation and accounting (AAA) protocols
+- authentication, authorization and accounting (AAA) protocols
 - remote authentication dial-in user service (RADIUS)
 - terminal access controller access-control system plus (TACACS+). allows for more granular control.
 - TACACS+ uses tcp and encrypts comms
-- extensible autentication protocol (EAP) -> universal authentication framework
-- protected extensible authentication protocol (PEAP). secure EAP within an encrypted TLS tunnel. reqauires certificate on client and server.
-- extensible authentication protocol-tunneled transport layer security (EAP-TTLS). requires certificate on the server side only.
+- extensible authentication protocol (EAP) -> universal authentication framework
+- protected extensible authentication protocol (PEAP). secure EAP within an encrypted TLS tunnel. requires certificate on client and server.
+- extensible authentication protocol-tunneled transport layer security (EAP-TLS). requires certificate on the server side only.
 - extensible authentication protocol-flexible authentication via secure tunneling (EAP-FAST). developed by cisco. developed to replace LEAP.
 
 ### Application Security
@@ -1261,7 +1261,7 @@ ALE = Asset x EF x ARO
 - content categorization. websites are categorized.
 - block rules.
 - reputation-based filtering. blocking or allowing websites based on their reputation score.
-- dns filtering. block acess to websites by preventing the translation of specific domain names to their corresponding IP addresses.
+- dns filtering. block access to websites by preventing the translation of specific domain names to their corresponding IP addresses.
 
 ### Email Security
 
@@ -1304,15 +1304,15 @@ ALE = Asset x EF x ARO
 - dynamic analysis. evaluate app as it is being run.
 - package monitoring. ensures libs and components are up to date.
 - penetration testing. simulate a real world attack on a system.
-- system and process audits. comprehensive review of policies and revies.
+- system and process audits. comprehensive review of policies.
 - process 1 planning 2 testing (test patches and updates) 3 implementing (deploy patches) 4 auditing (verify effective patch implementation)
 
 ### Threat Intelligence Feeds
 
 - process used to understand the threats faced by an org
-- threat intel feed. data related to potential or currnet threats that an org faces
+- threat intel feed. data related to potential or current threats that an org faces
 - open source intelligence (osint). intelligence collected from public forums.
-- propietary or 3rd party feeds. provided by commercial vendors. refined, analyzed and timely.
+- proprietary or 3rd party feeds. provided by commercial vendors. refined, analyzed and timely.
 - info sharing orgs.
 - dark web. 
 
@@ -1350,7 +1350,7 @@ ALE = Asset x EF x ARO
 - insurance. purchase a policy to mitigate financial losses.
 - network segmentation. diving a network into smaller parts.
 - compensating controls. alternative security measures. used when standard controls are not feasible.
-- granting exceptions and exemptions. (Exceptions) temporary relaxes security controls. (Exemption) permantently waives controls for a specific reason.
+- granting exceptions and exemptions. (Exceptions) temporary relaxes security controls. (Exemption) permanently waives controls for a specific reason.
 
 ### Validating Vulnerability Remediation
 
@@ -1363,7 +1363,7 @@ ALE = Asset x EF x ARO
 - process of documenting and communicating details about a security weakness
 - internal reporting. comms within the org. provides details. needs to be timely.
 - external reporting. comms outside the org.
-- responsible discloure reporting. disclose vulns. collab w/ the owners of the app. allow grace period to ensure they can address the issue b4 public announcement.
+- responsible disclosure reporting. disclose vulns. collab w/ the owners of the app. allow grace period to ensure they can address the issue b4 public announcement.
 - vuln reports must remain confidential.
 
 ## Session 23: Alerting and Monitoring
@@ -1393,7 +1393,7 @@ ALE = Asset x EF x ARO
 
 ### Simple Network Management Protocol (SNMP)
 
-- protocol for collecting and organizating info about managed devices on IP networks
+- protocol for collecting and organizing info about managed devices on IP networks
 - snmp commands. trap (send info to management node w/o request from the management node), set (set values), get (get values).
 - granular trap message. each message is sent with a unique identifier.
 - management information base (MIB). used to describe the structure of the management data.
@@ -1426,9 +1426,9 @@ ALE = Asset x EF x ARO
 
 - suite of open standards that automate security tasks
 - open vuln and assessment lang (OVAL). xml schema for describing the system security state
-- extensible conf checklist decription format (XCCDF). xml schema for developing auditing best-practice conf checklists and rules
+- extensible conf checklist description format (XCCDF). xml schema for developing auditing best-practice conf checklists and rules
 - asset reporting format (ARF). xml schema to express info about the assets an the relationships between assets and reports.
-- common conf enumeration (CCE). scheme for provisiong secure conf checks.
+- common conf enumeration (CCE). scheme for provisioning secure conf checks.
 - common platform enumeration (CPE). scheme for identifying hardware devices, operating systems and...
 - common vulns and exposures (CVE). list of records used to describe a publicly known vuln
 - common vulnerability scoring system (CVSS). used to provide a numerical score to reflect the severity of a vuln.
@@ -1436,7 +1436,7 @@ ALE = Asset x EF x ARO
 
 ### NetFlow and Flow Analysis
 
-- full packet capture (FPC). captures intire packet. takes a lot of resources.
+- full packet capture (FPC). captures entire packet. takes a lot of resources.
 - flow analysis. flow collector. records metadata and statistics rather than capturing each packet. does not provide the content.
 - netflow. cisco developed means of reporting flow analysis.
 - IP Flow Information Export (IPFIX). defines traffic flows based on shared packet characteristics.
@@ -1467,11 +1467,11 @@ ALE = Asset x EF x ARO
 - use the 7 phase model for the exam.
 - preparation. strengthening systems and networks to resists attacks. getting ready for future incidents.
 - detection. identifies security incidents.
-- analysis. examination and evaluation fo the incident.
+- analysis. examination and evaluation of the incident.
 - containment. limit the scope of the incident. i.e. separate endpoint from the network.
 - eradication. aims to remove malicious files.
 - recovery. restore systems to their regular state.
-- post incident activity or lessons learned. happens after containment and erradication.
+- post incident activity or lessons learned. happens after containment and eradication.
 - root cause analysis. identify initial source of the incident. 4 steps.
 - lessons learned process. documents experiences during incidents.
 - after-action report. collects info about what happened.
@@ -1479,9 +1479,9 @@ ALE = Asset x EF x ARO
 ### Threat Hunting
 
 - method for finding the presence of threats not caught by regular security monitoring.
-- establish a hypothesis. predict impact and likelyhood. use threat modeling.
+- establish a hypothesis. predict impact and likelihood. use threat modeling.
 - profile threat actors and activities.
-- perform log anlysis.
+- perform log analysis.
 - advisories and bulletins. info on new TTPs.
 - intelligence fusion and threat data. siem and analysis platforms to spot concerns.
 
@@ -1520,7 +1520,7 @@ ALE = Asset x EF x ARO
 
 - use digital forensics methods
 - use forensic toolkit (FTK, enCase)
-- cature screenshots of the machine
+- capture screenshots of the machine
 - follow order of volatility when collecting evidence
 - data acquisition. method and tools used to create a forensically sound copy of the data from a source device.
 - cpu registers and cache memory
@@ -1543,7 +1543,7 @@ ALE = Asset x EF x ARO
 
 ### Investigating with Data
 
-- securtiy information and event monitoring system (siem). combination of multiple data sources.
+- security information and event monitoring system (siem). combination of multiple data sources.
 - sensor. endpoint being monitored.
 - sensitivity (at the sensor). how much/little will be logged.
 - trends.
@@ -1556,7 +1556,7 @@ ALE = Asset x EF x ARO
 - netflow. network protocol created by cisco. collects active ip network traffic.
 - sampled flow (sflow). open source version of netflow.
 - internet protocol flow information export (IPFIX). universal standard of export for internet protocol flow info from routers and other devices.
-- metadata. data that decribes other data. data about data.
+- metadata. data that describes other data. data about data.
 
 ### Dashboards
 
@@ -1571,7 +1571,7 @@ ALE = Asset x EF x ARO
 
 ### Vulnerability Scans
 
-- vuln scan. generates scan reports automatically. review the report produced by the scan for confimration.
+- vuln scan. generates scan reports automatically. review the report produced by the scan for confirmation.
 
 ### Packet Captures
 
@@ -1621,14 +1621,14 @@ ALE = Asset x EF x ARO
 - soar is a siem 2.0.
 - soar is used for incident response.
 - playbook. checklist of actions for a specific incident response.
-- runbook. automated versions of playbookx with human interaction points.
+- runbook. automated versions of playbook with human interaction points.
   
 ### When to Automate and Orchestrate
 
 - complexity. apply to repetitive tasks.
 - cost.
 - watch out for single points of failure
-- technical debt. cosrt and complexity of poorly implemented software needing future adjustments
+- technical debt. cost and complexity of poorly implemented software needing future adjustments
 - ongoing supportability.
 - automation and orchestration should be created for tasks that are repeatable and stable
 
@@ -1637,7 +1637,7 @@ ALE = Asset x EF x ARO
 - 7 main benefits.
 - increase efficiency and time savings.
 - enforcing baselines.
-- implementating standard infrastructure configurations.
+- implementing standard infrastructure configurations.
 - scaling in a secure manner
 - increasing employee retention
 - increasing reaction times
@@ -1646,7 +1646,7 @@ ALE = Asset x EF x ARO
 ### Automating Support Tickets
 
 - automation. process of using tech to perform tasks with minimal human intervention.
-- ticket creation. automatic generation of tickes when uers or customers enter issues.
+- ticket creation. automatic generation of tickets when users or customers enter issues.
 - ticket escalation. ensures high-priority issues are addressed promptly.
 
 ### Automating Onboarding
@@ -1666,7 +1666,7 @@ ALE = Asset x EF x ARO
 
 - continuous integration (CI). developers merge code changes frequently in one place.
 - release. finalize and prepare new software or updates. enable software installation and usage.
-- deployment. process of software rleases to users. installing software into a new environment.
+- deployment. process of software releases to users. installing software into a new environment.
 - continuous delivery (CD). maintains deployable code with automation. part of the release process and not deployment.
 - continuous deployment (CD). automates the process of deploying code changes from testing to production after completion of the build stage. 
 
@@ -1705,17 +1705,17 @@ ALE = Asset x EF x ARO
 ### Avoiding Social Engineering
 
 - social engineering. attackers trick individuals into bypassing an orgs security procedures.
-- situational awareness. mindfulg of surroundings and the potential consequences of one's actions.
+- situational awareness. mindful of surroundings and the potential consequences of one's actions.
 - shoulder surfing. peek. attackers take a look.
 - eavesdropping. attacker tries to listen in.
 - piggybacking/tailgating.
-- dumspter diving
+- dumpster diving
 - operational security (opsec)
 
 ### Policy and Handbooks
 
 - policy. system of rules that guide decisions and actions.
-- handbook. comprehensive guide w/ detailed information on procedures, guidelies, etc.
+- handbook. comprehensive guide w/ detailed information on procedures, guidelines, etc.
 
 ### Remote and Hybrid Work Environments
 
@@ -1753,3 +1753,53 @@ ALE = Asset x EF x ARO
 
 
 
+
+LocalWords:  smb tcp smtps syslog udp ldaps imaps mssql rdp tls fw th
+LocalWords:  subnet stateful ngfw utm waf http acl IPS nids hids wids
+LocalWords:  signatured ips hw balancer auth authenticator tacacs EAP
+LocalWords:  cisco PEAP vpn orgs hq clientless CompTIA SY Udemy jason
+LocalWords:  cybersec comptia diontraining dion vulns mitigations fb
+LocalWords:  PBQs q's july cia ciaNA aaa noone vuln lifecycle mfa EDR
+LocalWords:  operability checksums posession inherence privs siem POA
+LocalWords:  ta's honeynet honeyfiles honeytokens exfil hacktivism ip
+LocalWords:  ddos doxxing cyber unauth vishing unsecure bluetooth dns
+LocalWords:  blueborne bluesmack honeynets TTPs doored rfid nfc EMI
+LocalWords:  complicitness biometrics FRR EER CER likeability BEC sms
+LocalWords:  typosquatting pretexting smishing url usb unpatched dll
+LocalWords:  executables multipartite trojan backdoors trojans easter
+LocalWords:  keylogger keyloggers antimalware pre fileless downloader
+LocalWords:  shellcode LOL dlp FDE ssl ipsec GDPR geofencing SaaS str
+LocalWords:  tokenization Cryptographic algo decrypt asym sym algos
+LocalWords:  DES des AES blowfish twofish rc ciper diffie hellman rsa
+LocalWords:  ECC cryptographic md sha ripemd hmac DSS plaintext PKI
+LocalWords:  CSR OCSP ocsp permissioned TPM HSM KMS steganography RTO
+LocalWords:  stego obsfuscation crypto RPO MTTR MTBF KRI EF SLE ARO
+LocalWords:  org's SLA MOA MSA NDA BPA AUP dont's SDLC reputational
+LocalWords:  BYOD CYOD MDM NIST sanitization degaussing backout evals
+LocalWords:  eval pentest pentesting nmap uptime undervoltage PDC BCP
+LocalWords:  coniditoner journaling DRP bcp drp failover prem env vm
+LocalWords:  vms os pws Serverless dbs Microservices gapping vlan SDN
+LocalWords:  IaC config idempotence auditability IoT wearables ICS pw
+LocalWords:  SCADA DCS PLC RTOS IANA smtp tftp kerberos nntp rpc imap
+LocalWords:  netbios snmp ldap https datagram DTLS IPsec ike vpns MTU
+LocalWords:  connectionless cenrtalized sase CASBs subnets IAM OTP sw
+LocalWords:  benchmarking privisioning deprovisioning Multifactor IdP
+LocalWords:  passwordless caracter biometric bruteforcing creds OAuth
+LocalWords:  apis SAML dac rbac abac microsoft uac misconfiguration
+LocalWords:  comms bluejacking bluesnarfing bluebugging bt sql xml
+LocalWords:  sideloading jailbreaking exfiltration DoS XXE XSS XSRF
+LocalWords:  xss persisent backend DOM oeverwriting ASLR TOC TOU ioc
+LocalWords:  dereferencing mutex icmp blackhole dnssec retransmits
+LocalWords:  WPA IoC timeframe conf SELinux allowlisting blocklisting
+LocalWords:  TOS posix EAL eal sys linux distro Solaris microkernels
+LocalWords:  hotfix hotfixes rollout ucs baselining AppArmor gpg TDE
+LocalWords:  NAC WAP ESS WAPs WEP wep wifi wpa TKIP CCMP SAE GCMP spf
+LocalWords:  SAST DAST sandboxing ieee dkim dmarc edr FIM xdr UBA cve
+LocalWords:  UEBA libs osint cvss nessus openvas rescanning rescans
+LocalWords:  misconfigs collab pos perf qualys MIB agentless wmi ibm
+LocalWords:  splunk elasticsearch logstash kibana arcsight qradar ARF
+LocalWords:  untrusted SCAP lang XCCDF CCE CPE NetFlow FPC netflow
+LocalWords:  IPFIX zeek grapher MRTG SPOG nist TTX FTK enCase cpu arp
+LocalWords:  hdd sdd HKLM unix journalctl journald nxlog sflow api
+LocalWords:  multiplatform runbook supportability Onboarding opsec
+LocalWords:  deployable Integrations incongruencies OCM dion's
